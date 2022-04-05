@@ -42,8 +42,8 @@ banner= """
 \033[37;1m ╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝     ╚═╝ \033[37;1m  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
 
 \033[33;1m╔════════════════════════════════════════════════╗
-\033[33;1m║  \033[36;1m [•] Authour : Bang-Inu                      \033[33;1m ║
-\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Bang-Inu     \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] Authour : Xenz-11                       \033[33;1m ║
+\033[33;1m║  \033[36;1m [•] gitHub  : https:github.com/Xenz-11      \033[33;1m ║
 \033[33;1m║  \033[36;1m [•] Facebook  : Sapa Yah                    \033[33;1m ║
 \033[33;1m╚════════════════════════════════════════════════╝
 \033[36;1m╔═══════════════════════════╗
@@ -59,7 +59,7 @@ print ("\033[37m[\033[31m•\033[37m]\033[32m Contoh nomor\033[37m : \033[37m\03
 nomor = input("\033[37m[\033[31m•\033[37m]\033[32m Nomor Target\033[32m \033[37m:\033[37m\033[33m ")
 print ("\033[1;30m<════════════[\033[1;33;41m • \033[1;37m MASUKAN JUMLAH \033[1;33m• \033[0m\033[1;30m]══════════════>")
 jumlah = int(input("\033[37m[\033[31m•\033[37m]\033[32m Jumlah Spam\033[37m :\033[37m\033[33m "))
-mengetik("[KALO SUDAH LIMIT TUNGUH BEBERAPA MENIT LAGI BARU ULANGI NGAB :V] ")
+mengetik("[KALO SUDAH LIMIT TUNGUH BEBERAPA MENIT LAGI BARU ULANGI BANG :V] ")
 time.sleep(3)
 # Jaggan di ubah sayang ku
 url = "https://id.jagreward.com/member/verify-mobile/"
